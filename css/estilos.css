@@ -74,7 +74,12 @@ p { line-height: 1.9; }
     position: relative;
     top: -101px;
     left: 18px;
-    width: 425px;
+    width: 280px;
+}
+
+.borde-bg{
+background-image: url(/img/borde.png);
+background-repeat: no-repeat;
 }
 
 @media (max-width: 1200px) {
