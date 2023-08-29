@@ -147,7 +147,7 @@ p { line-height: 1.9; }
         border-top: 0;
     } */
 
-    .tm-bg-right { height: calc(100% - 200px); }
+    /* .tm-bg-right { height: calc(100% - 200px); } */
 
     .tm-bg-controls-wrapper {
         margin-left: 0;
@@ -161,7 +161,7 @@ p { line-height: 1.9; }
 
     .tm-col-right {
         padding-top: 40px;
-        padding-left: 30px;
+        /* padding-left: 30px; */
     }
 
     .tm-col-footer {
