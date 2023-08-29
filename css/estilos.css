@@ -3,7 +3,7 @@ body {
     font-size: 17px;
     font-weight: 300;
     overflow-x: hidden;
-    color: white;
+    color: #000000;
     background-color: #3F5788;
 }
 
@@ -74,12 +74,24 @@ p { line-height: 1.9; }
     position: relative;
     top: -101px;
     left: 18px;
-    width: 280px;
+    width: 310px;
 }
 
 .borde-bg{
 background-image: url(/img/borde.png);
 background-repeat: no-repeat;
+padding-top: 60px;
+}
+
+.fondo{
+    background-color: #CECECE;
+}
+
+.giftVota{
+    width: 270px;
+    position: relative;
+    top: -84px;
+    left: 15px;
 }
 
 @media (max-width: 1200px) {
@@ -139,7 +151,7 @@ background-repeat: no-repeat;
     #tm-main-nav {
         position: fixed;
         top: 50px;
-        /* right: 40px; */
+        right: 40px;
         padding-bottom: 0;
     }  
     
