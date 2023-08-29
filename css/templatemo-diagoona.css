@@ -63,7 +63,7 @@ p { line-height: 1.9; }
 }
 
 /* Page Background */
-.tm-bg {
+/* .tm-bg {
     position: absolute;
     left: 0;
     right: 0;
@@ -71,7 +71,7 @@ p { line-height: 1.9; }
     height: 100%;
     display: flex;
     z-index: -1000;
-}
+} */
 
 .tm-bg-left,
 .tm-bg-right {
@@ -321,7 +321,7 @@ textarea {
 
     .tm-bg-controls-wrapper {
         margin-left: 0;
-        margin-top: 50px;
+        /* margin-top: 50px; */
     }
 
     .tm-content {
