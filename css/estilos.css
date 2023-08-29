@@ -93,6 +93,14 @@ padding-top: 60px;
     top: -84px;
     left: 15px;
 }
+.logosVarios{
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 12px;
+}
 
 @media (max-width: 1200px) {
     .nav-item { margin-right: 30px; }
@@ -155,14 +163,17 @@ padding-top: 60px;
         padding-bottom: 0;
     }  
     
-    .tm-bg { flex-direction: column; }
+    .tm-bg { 
+        flex-direction: column;
+        height: inherit !important;
+     }
 
-    .tm-bg-left {
+    /* .tm-bg-left {
         height: 200px;        
         border-bottom: 50px solid #3F5788;
         border-right: 0;
         border-top: 0;
-    } 
+    }  */
 
     .tm-bg-right { height: calc(100% - 200px); }
 
