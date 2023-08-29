@@ -140,12 +140,12 @@ p { line-height: 1.9; }
     
     .tm-bg { flex-direction: column; }
 
-    .tm-bg-left {
+    /* .tm-bg-left {
         height: 200px;        
         border-bottom: 50px solid #3F5788;
         border-right: 0;
         border-top: 0;
-    }
+    } */
 
     .tm-bg-right { height: calc(100% - 200px); }
 
