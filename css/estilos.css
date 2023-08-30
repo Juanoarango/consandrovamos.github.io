@@ -73,8 +73,7 @@ p { line-height: 1.9; }
 .conSandro{
     position: relative;
     top: -101px;
-    left: 18px;
-    width: 310px;
+    width: 340px;
 }
 
 .borde-bg{
@@ -89,10 +88,9 @@ background-repeat: no-repeat;
 }
 
 .giftVota{
-    width: 270px;
+    width: 340px;
     position: relative;
-    top: -84px;
-    left: 15px;
+    top: -67px;
 }
 .logosVarios{
     background-color: #fff;
