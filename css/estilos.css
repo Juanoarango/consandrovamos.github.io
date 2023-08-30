@@ -103,6 +103,10 @@ background-repeat: no-repeat;
     align-items: center;
     padding: 12px;
 }
+.miWp{
+    color: #CD6838;
+    font-weight: 600;
+}
 
 @media (max-width: 1200px) {
     .nav-item { margin-right: 30px; }
